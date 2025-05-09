@@ -3,7 +3,7 @@ load_dotenv()
 
 import os
 
-HOSTNAME = os.getenv('HOSTNAME') 
-USERNAME = os.getenv('USERNAME') 
-PASSWORD = os.getenv('PASSWORD') 
-DBNAME = os.getenv('DBNAME') 
+HOSTNAME = os.getenv('HN') 
+USERNAME = os.getenv('UN') 
+PASSWORD = os.getenv('PW') 
+DBNAME = os.getenv('DN') 
